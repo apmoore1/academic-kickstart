@@ -51,3 +51,9 @@ To create a publication from bib file assuming within this directory and have in
 ``` bash
 academic import --bibtex bibfile
 ```
+
+To deploy:
+
+``` bash
+./deploy.sh "optional commit message else defaults to `rebuilding site date`"
+```
