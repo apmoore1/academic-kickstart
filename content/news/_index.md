@@ -1,14 +1,12 @@
 # Current
-* I will be attending [ACL](http://www.acl2019.org/EN/index.xhtml) at the end of July to the beginning of August.
 * Writing my thesis to finish late September 2019.
 * Founded (2019) and organise the Lancaster NLP reading group.
-* Co-organising (since 2018) the [Data Science Group](https://www.lancaster.ac.uk/scc/research/data-science/) seminar series at [Lancaster University](https://www.lancaster.ac.uk/scc/). I organise this with [Dr. Leandro Soriano Marcolino](https://www.lancaster.ac.uk/staff/sorianom/) (founder) and [Dr. Xiaowei Gu](http://www.research.lancs.ac.uk/portal/en/people/xiaowei-gu(73ce10c1-246b-4b9c-a033-997ae7f89beb).html).
-
 
 # Past
 ## 2019
+* Finished co-organising both the [UCREL CRS](http://ucrel.lancs.ac.uk/crs/) (started 2017) and the [Data Science Group](https://www.lancaster.ac.uk/scc/research/data-science/) (started 2018) seminar serieses at [Lancaster University](https://www.lancaster.ac.uk/scc/). I really enjoyed hosting both seminars, learning form the wide range of talks (from more linguistic based to pure machine learning), as well as meeting the great speakers that made the seminar serieses possible.
+* I attended [ACL](http://www.acl2019.org/EN/index.xhtml).
 * Attended Future-proofing Your Research: Moving Towards Open and Reproducible Research Practices workshop at [Lancaster University](https://www.lancaster.ac.uk/) on the 4th of June.
-* Finished co-organising the [UCREL CRS seminar series](http://ucrel.lancs.ac.uk/crs/). I really enjoyed hosting the wide range of seminars as well as learning from all of the great speakers.
 * Co-Founded the Lancaster NLP group meetings, currently organised by [Edward Dearden](http://www.research.lancs.ac.uk/portal/en/people/edward-dearden(6a07b9df-a13f-483c-9ad7-bc5eb66cf6d7).html).
 
 ## 2018
