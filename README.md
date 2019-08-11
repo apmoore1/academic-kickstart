@@ -42,6 +42,11 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
 # Commands
+If creating this website from scratch you need to run the following command to setup the theme of the website:
+``` bash
+git submodule update --init --recursive
+```
+
 To run the server:
 ``` bash
 hugo server

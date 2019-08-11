@@ -61,6 +61,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a PhD at [Lancaster University](https://www.lancaster.ac.uk/scc/) within the NLP group, where I am supervised by [Dr. Paul Rayson](https://www.lancaster.ac.uk/people-profiles/paul-rayson) and [Prof. Steven Young](https://www.lancaster.ac.uk/lums/people/steven-young). My main research interests are within Natural Language Processing and more specifically within Target/Aspect Based Sentiment Analysis, where I am interested in generalisability. I am also interested more braodly in areas of machine learning such as Semi-Supervised Learning and reproducibility. 
+I am a PhD at [Lancaster University](https://www.lancaster.ac.uk/scc/) within the NLP group, where I am supervised by [Dr. Paul Rayson](https://www.lancaster.ac.uk/people-profiles/paul-rayson) and [Prof. Steven Young](https://www.lancaster.ac.uk/lums/people/steven-young). My main research interests are within Natural Language Processing and more specifically within Target/Aspect Based Sentiment Analysis, where I am interested in generalisability. I am also interested more broadly in areas of machine learning such as Semi-Supervised Learning and reproducibility. 
 
 I am also a member of the [UCREL research centre](http://ucrel.lancs.ac.uk/) and the [Data Science Institute](https://www.lancaster.ac.uk/dsi/) at Lancaster University. If you would like to know more about my work you are welcome to read my [resume](https://github.com/apmoore1/CV/blob/master/CV.pdf). 
